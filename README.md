@@ -1,3 +1,7 @@
+# Calculadora em VUE
+    Projeto feito com base no curso da Cod3r, pelo professor Leonardo.
+
+
 # calculator
 
 ## Project setup
